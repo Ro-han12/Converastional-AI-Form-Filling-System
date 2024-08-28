@@ -1,2 +1,1 @@
-# squidgamescard
-SQUID GAME CARD WITH GUI PYTHON INTERFACE-TURTLE
+Conversational Form Filling System 
